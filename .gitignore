@@ -1,0 +1,7 @@
+__pycache__/
+tmp/
+data/
+tensorboard/
+venv/
+models/
+.venv/
